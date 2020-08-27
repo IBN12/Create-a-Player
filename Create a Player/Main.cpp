@@ -2,8 +2,7 @@
 Program: Main (main program)
 Description: This is the user-defined function.
 
-Note: This the user will enter the creative player menu
-in this program.
+Note: This is where the user will enter the creative player menu.
 
 Date: August-20-2020
 */
