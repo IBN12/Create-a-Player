@@ -1,8 +1,11 @@
 # Create-a-Player
 Creative Project
 My Creative Project 1: Create a Player
+
 C++
+
 Assignment:
+
 This is a creative project using classes and the OOD (object-oriented design) methodology. 
 This means you will have collection of interacting objects. 
 Your classes will have member data such as member variables and member functions.
