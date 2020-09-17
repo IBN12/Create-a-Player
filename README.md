@@ -18,5 +18,42 @@ This list of choosing equipment should be a menu where you can enter, choose ove
 
 Note: I will add more information about this project soon to explain it.
 
+<h1> Program Layout Order: </h1>
+<p> Choose to create a character or leave the program. If you choose to create a character, you
+	will enter the character creator implementation file where you will be presented with several
+menu options towards creating your character. </p>
 
-<h1> Random </h1>
+<h2> Create characters name </h2>
+<ul>
+	<li> First name </li>
+	<li> Last name </li>
+</ul>
+
+<h2> Choose Charcter's Equipment </h2>
+<ul>
+	<li> Weapon </li>
+	<ul>
+		<li> Sword </li>
+		<li> Spear </li>
+		<li> Dagger </li>
+	</ul>
+</ul>
+
+<ul>
+	<li> Gear </li>
+	<ul>
+		<li> Vest </li>
+		<li> Shield </li>
+		<li> Boots </li>
+	</ul>
+</ul>
+
+<ul>
+	<li> Artifact </li>
+	<ul>
+		<li> Bracelet </li>
+		<li> Necklase </li>
+		<li> Scarf </li>
+	</ul>
+</ul>
+
