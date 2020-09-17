@@ -17,3 +17,6 @@ and another list of three items that are arranged for the character. The player 
 This list of choosing equipment should be a menu where you can enter, choose over again, and leave the menu. Each item should have its own stats.  
 
 Note: I will add more information about this project soon to explain it.
+
+
+<h1> Random </h1>
