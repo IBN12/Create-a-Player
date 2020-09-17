@@ -21,7 +21,7 @@ Note: I will add more information about this project soon to explain it.
 <h1> Program Layout Order: </h1>
 <p> Choose to create a character or leave the program. If you choose to create a character, you
 	will enter the character creator implementation file where you will be presented with several
-menu options towards creating your character. </p>
+menu options. </p>
 
 <h2> Create characters name </h2>
 <ul>
