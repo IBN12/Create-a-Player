@@ -23,13 +23,13 @@ Note: I will add more information about this project soon to explain it.
 	will enter the character creator implementation file where you will be presented with several
 menu options. </p>
 
-<h2> Create characters name </h2>
+<h3> Create characters name </h3>
 <ul>
 	<li> First name </li>
 	<li> Last name </li>
 </ul>
 
-<h2> Choose Charcter's Equipment </h2>
+<h3> Choose Charcter's Equipment </h3>
 <ul>
 	<li> Weapon </li>
 	<ul>
